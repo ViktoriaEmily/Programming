@@ -1,0 +1,9 @@
+<object-stream>
+  <list>
+    <Artist>
+      <artistName>Skakira</artistName>
+      <artistEmail>s@gmail.com</artistEmail>
+      <artistPhone>0871234567</artistPhone>
+    </Artist>
+  </list>
+</object-stream>
